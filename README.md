@@ -8,7 +8,7 @@
 Hi there! I'm **Anouk**, a passionate software engineering student with a growing interest in Cloud computing and networking  
 I thrive in team environments where **collaboration, creativity**, and **ethical leadership** take center stage.
 
-I enjoy building innovative projects — from .NET applications to full-stack web apps — and solving real-world problems with tech.
+I enjoy building innovative projects — from .NET applications to full-stack web apps.
 
 ---
 
@@ -41,6 +41,12 @@ I enjoy building innovative projects — from .NET applications to full-stack we
 
 ![Anouk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnoukvanAlphen&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoukvanAlphen&layout=compact&theme=tokyonight)
+
+---
+
+### 🚧 What I'm Currently Working On
+- 🧠 UDEMY management certification/course
+- 🛠️ A ticketing system for a Festival event: using supabase and QR code scanners for security
 
 ---
 
