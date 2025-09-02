@@ -50,6 +50,7 @@ I enjoy building innovative projects — from .NET applications to full-stack we
 ### 🤝 Let's Connect
 
 - 📧 **Email:** anouk@nucleo.co.za
+- 🚀 **CV website:** https://anoukvanalphen.github.io/portfolio/
 - 🧠 **LinkedIn:** https://www.linkedin.com/in/anouk-van-alphen-337847244/
 - 🌱 **Open to:** internships, tech collaborations, and impact-driven student initiatives!
 
